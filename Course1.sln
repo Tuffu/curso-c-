@@ -75,17 +75,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conjuntos", "Conjuntos\Conj
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tópicos especiais Parte 1", "Tópicos especiais Parte 1", "{40EA8623-D417-4B59-B28C-DCC14EAEFA2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalavraVar", "PalavraVar\PalavraVar.csproj", "{DA91A522-CA15-42DC-8431-514A0A51658E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalavraVar", "PalavraVar\PalavraVar.csproj", "{DA91A522-CA15-42DC-8431-514A0A51658E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{3D1EDA77-580E-43B1-822B-B7F366E951CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{3D1EDA77-580E-43B1-822B-B7F366E951CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CondiçãoTernaria", "CondiçãoTernaria\CondiçãoTernaria.csproj", "{463CF363-04CB-4BCB-938E-0D3E402F5B43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CondiçãoTernaria", "CondiçãoTernaria\CondiçãoTernaria.csproj", "{463CF363-04CB-4BCB-938E-0D3E402F5B43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncaoParaString", "FuncaoParaString\FuncaoParaString.csproj", "{02117B8C-26E6-4DBD-B64F-33C8FC555D6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FuncaoParaString", "FuncaoParaString\FuncaoParaString.csproj", "{02117B8C-26E6-4DBD-B64F-33C8FC555D6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datetime", "DateTime\Datetime.csproj", "{308CE793-A1D1-4F63-968E-A2EA21FFFABC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Datetime", "DateTime\Datetime.csproj", "{308CE793-A1D1-4F63-968E-A2EA21FFFABC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timespan", "Timespan\Timespan.csproj", "{09F772F1-BC26-448D-BF02-0140B8A7DCEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Timespan", "Timespan\Timespan.csproj", "{09F772F1-BC26-448D-BF02-0140B8A7DCEE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Enumeracao", "Enumeracao\Enumeracao.csproj", "{8E49E678-CE25-40B7-BA73-FC3AF5565382}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Enumeracao e Composicao", "Enumeracao e Composicao", "{87ED8F9E-4B7D-4131-B7B5-7AB51C77FB3A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExercicioResolvido", "ExercicioResolvido\ExercicioResolvido.csproj", "{F7BD83D5-4EA0-40FE-AB5A-41297DEA9941}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercicioResolvido2", "ExercicioResolvido2\ExercicioResolvido2.csproj", "{215DCDC1-B65A-475F-AE87-FB493078E2AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -233,6 +241,18 @@ Global
 		{09F772F1-BC26-448D-BF02-0140B8A7DCEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09F772F1-BC26-448D-BF02-0140B8A7DCEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09F772F1-BC26-448D-BF02-0140B8A7DCEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E49E678-CE25-40B7-BA73-FC3AF5565382}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E49E678-CE25-40B7-BA73-FC3AF5565382}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E49E678-CE25-40B7-BA73-FC3AF5565382}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E49E678-CE25-40B7-BA73-FC3AF5565382}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7BD83D5-4EA0-40FE-AB5A-41297DEA9941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7BD83D5-4EA0-40FE-AB5A-41297DEA9941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7BD83D5-4EA0-40FE-AB5A-41297DEA9941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7BD83D5-4EA0-40FE-AB5A-41297DEA9941}.Release|Any CPU.Build.0 = Release|Any CPU
+		{215DCDC1-B65A-475F-AE87-FB493078E2AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{215DCDC1-B65A-475F-AE87-FB493078E2AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{215DCDC1-B65A-475F-AE87-FB493078E2AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{215DCDC1-B65A-475F-AE87-FB493078E2AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -276,6 +296,9 @@ Global
 		{02117B8C-26E6-4DBD-B64F-33C8FC555D6A} = {40EA8623-D417-4B59-B28C-DCC14EAEFA2C}
 		{308CE793-A1D1-4F63-968E-A2EA21FFFABC} = {40EA8623-D417-4B59-B28C-DCC14EAEFA2C}
 		{09F772F1-BC26-448D-BF02-0140B8A7DCEE} = {40EA8623-D417-4B59-B28C-DCC14EAEFA2C}
+		{8E49E678-CE25-40B7-BA73-FC3AF5565382} = {87ED8F9E-4B7D-4131-B7B5-7AB51C77FB3A}
+		{F7BD83D5-4EA0-40FE-AB5A-41297DEA9941} = {87ED8F9E-4B7D-4131-B7B5-7AB51C77FB3A}
+		{215DCDC1-B65A-475F-AE87-FB493078E2AA} = {87ED8F9E-4B7D-4131-B7B5-7AB51C77FB3A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {475CEA6A-83C4-4583-A28A-A787C39CC1E0}
